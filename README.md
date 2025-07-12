@@ -1,6 +1,7 @@
 # User Management System
 
-A simple user management system with dark mode interface.
+![Screenshot](screenshot.png)
+
 
 ## What You Need
 
