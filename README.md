@@ -1,6 +1,6 @@
 # User Management System
 
-![Screenshot](screenshot.png)
+![Screenshot](Screenshot.png)
 
 
 ## What You Need
